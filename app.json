@@ -21,6 +21,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.daniel.picpay",
+      "versionCode": 1
     }
   }
 }
